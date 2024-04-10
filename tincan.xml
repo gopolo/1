@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://shaileshgurav.course/hola-xapitest" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cataract Basics</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/6lvQXwH0Vnd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cataract Basics - Cover Page</name>
+			<description lang="und">Cataract Basics - Cover Page</description>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/5WuL4B0vhcU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What is Cataract?</name>
+			<description lang="und">What is Cataract?</description>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/6K3dUVi4Are" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Morphology A</name>
+			<description lang="und">Morphology A</description>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/5rztN1yp9wA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Morphology B</name>
+			<description lang="und">Morphology B</description>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/5lEIkxUe5NM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hand Position Stab and Visco - Video</name>
+			<description lang="und">Hand Position Stab and Visco - Video</description>
+		</activity>
+		<activity id="http://shaileshgurav.course/hola-xapitest/64gBirwWYHf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What is Cataract?</name>
+			<description lang="und">What is Cataract?</description>
+		</activity>
+	</activities>
+</tincan>
